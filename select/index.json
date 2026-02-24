@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジェットスターター",
+  "base_artist": "いきづらい部！、五桐 玲(CV.宮野 芹)",
+  "createdAt": "2026-02-24T14:47:45.337159Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェットスターター",
+      "artist": "いきづらい部!、五桐 玲(CV.宮野 芹)",
+      "has_synced": false,
+      "path": "select/pl_01_ジェットスターター_いきづらい部!、五桐_玲(CV.宮野_芹).txt"
+    }
+  ]
+}
